@@ -341,3 +341,11 @@ addNewProject({
     url: "https://17jayyst.netlify.app",
     tech: ["HTML5", "CSS3", "JavaScript", "Font Awesome"]
 });
+
+addNewProject({
+    title: "SENA BUTTON V2",
+    description: "Versi terbaru dari koleksi button UI dengan 9 efek unik (Gooey, Aurora, Glow Bar, Wave, Shake, Glitch, Squishy, Electric dengan petir, dan Bubble). Dilengkapi dengan active state (efek saat ditekan) dan code snippets siap copy.",
+    image: "https://files.catbox.moe/eoyz4g.png",
+    url: "https://button-ui-v2-sena.vercel.app/",
+    tech: ["HTML5", "CSS3", "JavaScript", "SVG Filters"]
+});
